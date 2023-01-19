@@ -1,5 +1,6 @@
-# Adam's Bitburner Stuff
+# Adam's Bitburner Stuff - ARCHIVED
 
-This repository contains my notes and scripts for the bitburner game. 
+I am archiving this project. I stopped playing Bitburner after they released version 2.0 of the game. 
+If I ever return to the game I intend to start over from scratch.
 
-Everything in this repository is a spoiler for the game. You have been warned. 
+I apologize if you depended on some of this code.
